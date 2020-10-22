@@ -12,14 +12,6 @@ import java.io.InputStreamReader;
 
 public class Main {
 
-    public static void gradesCheck() {
-
-    }
-
-    public static void addGrades() {
-        //test
-    }
-
     public static void main(String[] args) throws IOException {
         //connects to database and starts up the menu of the program
         DatabaseConnection.connect();

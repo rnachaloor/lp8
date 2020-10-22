@@ -28,4 +28,20 @@ public class DatabaseConnection {
         //validation
         return con;
     }
+    
+    /**
+     * Checks the grade in the class and prints it onto the console.
+     */
+    public static void gradesCheck() {
+        
+    }
+    
+    /**
+     * Allows the user to add assignments to the database.
+     */
+    public static void addGrades() {
+        
+    }
+    
+    
 }
